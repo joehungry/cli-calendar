@@ -1,0 +1,6 @@
+**contactFolder/
+updateFolder/
+supabaseLogininfo/
+**__pycache__
+.vscode
+calendar
